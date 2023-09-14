@@ -1,0 +1,19 @@
+{
+  "name": "learn-datastructure-and-algorithm",
+  "version": "1.0.0",
+  "description": "## 概论",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-w": "jest --watch"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/cli": "^7.22.15",
+    "@babel/core": "^7.22.17",
+    "@babel/preset-env": "^7.22.15",
+    "babel-jest": "^29.7.0",
+    "jest": "^29.7.0"
+  }
+}
