@@ -9,7 +9,8 @@
   
 ## 数据结构
 
-- [链表](./src/data-structures/linked-list/READEME.md)
+- [链表](./src/data-structures/linked-list/README.md)
+- [栈](./src/data-structures/stack/README.md)
 
 <!-- 
 ## 数据结构
