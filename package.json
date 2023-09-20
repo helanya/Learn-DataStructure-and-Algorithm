@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
-    "test-w": "jest --watch"
+    "test-w": "jest --watchAll"
   },
   "author": "",
   "license": "ISC",
