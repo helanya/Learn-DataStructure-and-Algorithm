@@ -12,6 +12,7 @@
 - [链表](./src/data-structures/linked-list/README.md)
 - [栈](./src/data-structures/stack/README.md)
 - [队列](./src/data-structures/queue/README.md)
+- [哈希表](./src/data-structures/hash-table/README.md)
 
 <!-- 
 ## 数据结构
